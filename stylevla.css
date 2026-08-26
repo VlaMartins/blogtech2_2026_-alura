@@ -4,7 +4,7 @@
     --cor-secundaria: #C97898;    /* rosé */
     --cor-fundo: white;         /* rosé bem suave */
     --cor-texto: #3D2931;         /* vinho escuro */
-    --cor-contraste: green;     /* branco */
+    --cor-contraste: rgb(247, 234, 236);     /* branco */
     --cor-botao: #FFFFFF;         /* branco */
     --fonte-texto: 'Segoe UI', sans-serif;
 }
