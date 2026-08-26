@@ -1,11 +1,11 @@
 /* variaveis criadas para armazenar a cor em hexadecimal - tema claro*/
 :root {
-    --cor-primaria: #A64D79;      /* rosa queimado */
-    --cor-secundaria: #D98FAF;    /* rosé */
-    --cor-fundo: #ffffff;         /* branco rosado */
-    --cor-texto: #3A2630;         /* vinho bem escuro */
-    --cor-contraste: #f7f3f5;     /* rosa bem claro */
-    --cor-botao: #FFFFFF;
+    --cor-primaria: #9E496B;      /* rosa queimado */
+    --cor-secundaria: #C97898;    /* rosé */
+    --cor-fundo: #F3E4E8;         /* rosé bem suave */
+    --cor-texto: #3D2931;         /* vinho escuro */
+    --cor-contraste: #FFFFFF;     /* branco */
+    --cor-botao: #FFFFFF;         /* branco */
     --fonte-texto: 'Segoe UI', sans-serif;
 }
 
