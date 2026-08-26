@@ -6,7 +6,7 @@
     --cor-texto: #3D2931;          /* vinho escuro */
     --cor-contraste: rgb(247, 234, 236);     /* branco */
     --cor-botao: #FFFFFF;         /* branco */
-    --fonte-texto: 'Segoe UI', sans-serif;
+    --fonte-texto: sans-serif;
 }
 
 /* tempo de transicao entre os temas claro e escuro */
