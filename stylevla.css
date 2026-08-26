@@ -49,6 +49,7 @@ article {
     text-align: center;
     justify-content: center;
     background-color: white;
+    border-radius: 5px;
 }
 
 img {
