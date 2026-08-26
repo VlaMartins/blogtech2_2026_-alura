@@ -35,6 +35,8 @@ main {
     padding: 16px;
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
+    line-height: 1.5;
 }
 
 article {
