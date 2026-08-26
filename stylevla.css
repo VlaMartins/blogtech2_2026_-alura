@@ -2,7 +2,7 @@
 :root {
     --cor-primaria: #9E496B;      /* rosa queimado */
     --cor-secundaria: #C97898;    /* rosé */
-    --cor-fundo: #f8eef1;         /* rosé bem suave */
+    --cor-fundo: white;         /* rosé bem suave */
     --cor-texto: #3D2931;         /* vinho escuro */
     --cor-contraste: #FFFFFF;     /* branco */
     --cor-botao: #FFFFFF;         /* branco */
